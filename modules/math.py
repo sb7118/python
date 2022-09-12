@@ -15,6 +15,7 @@ print(math.pi) #pi is a math constant
 print(math.fabs(-2)) #it removes negative sign
 print(math.isfinite(-1/12)) #checks weather the no. is finite or not
 print(math.isinf(1/9)) #checks weather the no. is infinite or not
+print(int(math.sqrt(3))) #int() removes the floating point numbers
 '''
 
 
